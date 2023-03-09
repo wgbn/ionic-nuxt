@@ -1,0 +1,6 @@
+{
+  "appId": "br.com.wgbn.ionicnuxt",
+  "appName": "ionic-nuxt",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
